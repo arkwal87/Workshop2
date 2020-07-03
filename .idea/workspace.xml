@@ -20,12 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eae9dde3-cc2e-46f2-bdd9-cded49da2811" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_temp_db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clcrypto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clcrypto_examples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Workshop2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Workshop2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/_temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_temp_db" beforeDir="false" afterPath="$PROJECT_DIR$/_temp_db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.models">
+  <component name="RunManager" selected="Python._temp">
     <configuration name="_temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Workshop2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,8 +154,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.models" />
         <item itemvalue="Python._temp" />
+        <item itemvalue="Python.models" />
         <item itemvalue="Python.create_db" />
         <item itemvalue="Python.exercise_1" />
       </list>
@@ -169,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593769661796</updated>
-      <workItem from="1593769668109" duration="6070000" />
+      <workItem from="1593769668109" duration="13254000" />
     </task>
     <servers />
   </component>
@@ -204,31 +206,31 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2699" y="311" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593770435599" />
-    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1593775694068">
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1593783770767">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593775694068" />
-    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1593775694068">
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593783770767" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1593783770766">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593775694068" />
-    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1593775694068">
+    <state width="1802" height="275" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593783770766" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1593783770766">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593775694068" />
-    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1593775694068">
+    <state width="1802" height="275" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593783770766" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1593783770767">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593775694068" />
-    <state x="2404" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1593770225165">
+    <state width="1802" height="275" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593783770767" />
+    <state x="2404" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1593778334821">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2404" y="188" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593770225165" />
+    <state x="2404" y="188" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1593778334821" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Workshop2$create_db.coverage" NAME="create_db Coverage Results" MODIFIED="1593772761138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Workshop2$exercise_1.coverage" NAME="exercise_1 Coverage Results" MODIFIED="1593770711230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Week2/WAR_PYT_S_23_database" />
-    <SUITE FILE_PATH="coverage/Workshop2$_temp.coverage" NAME="_temp Coverage Results" MODIFIED="1593774199292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Workshop2$models.coverage" NAME="models Coverage Results" MODIFIED="1593775694060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Workshop2$_temp.coverage" NAME="_temp Coverage Results" MODIFIED="1593783821414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Workshop2$models.coverage" NAME="models Coverage Results" MODIFIED="1593783770751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

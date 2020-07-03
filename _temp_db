@@ -10,3 +10,5 @@ CREATE TABLE Messages(
     to_id INT REFERENCES Users(id),
     creation_date TIMESTAMP
 );
+
+INSERT INTO Users (username, hashed_password) VALUES (%s,%s)

@@ -5,6 +5,7 @@ USER = "postgres"
 HOST = "127.0.0.1"
 PASSWORD = "coderslab"
 
+
 def create_db(db, debug=True):
     try:
         cnx = connect(user=USER, password=PASSWORD, host=HOST);
@@ -26,6 +27,7 @@ def create_db(db, debug=True):
     cur.close()
     cnx.close()
     return print("DataBase created")
+
 
 def create_tables(debug=False):
     try:
@@ -67,6 +69,7 @@ def create_tables(debug=False):
             print("Error ", e.pgcode, ":", e)
         return False
     return print("Tables created")
+
 
 if __name__ == "__main__":
     create_db("Workshop2", debug=True)
